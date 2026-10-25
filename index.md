@@ -10,4 +10,4 @@ A tiny independent game studio.
 
 A pixel-art endless jumper for Android. Hop sky-high through six worlds, find secrets and unlock 15 quirky heroes!
 
-- [Privacy policy](hoponaut/privacy-policy)
+- - [Privacy policy](privacy_policy)
