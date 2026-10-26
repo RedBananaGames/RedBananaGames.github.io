@@ -15,7 +15,7 @@ This privacy policy explains how **Hoponaut** (the "game"), made by **Red Banana
   which may collect some device information to show and measure ads. You can buy the
   one-time **"Remove ads"** upgrade to turn off the banners (the optional "watch an
   ad for gems" ads stay available).
-- You can also buy packs of gems. All purchases are handled by **Google Play**. We never see your payment details.
+- Purchases are handled by **Google Play**. We never see your payment details.
 
 ## Information stored on your device
 
