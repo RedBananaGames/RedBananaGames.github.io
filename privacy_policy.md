@@ -1,6 +1,6 @@
 # Hoponaut: Privacy Policy
 
-*Last updated: 25/10/2026*
+*Last updated: 26/10/2026*
 
 This privacy policy explains how **Hoponaut** (the "game"), made by **Red Banana Games**
 ("we", "us"), handles information when you play it on Android devices.
