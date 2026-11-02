@@ -65,4 +65,4 @@ If this policy changes, we'll update this page and the "Last updated" date above
 
 ## Contact
 
-Questions about this policy or the game: **redbananagms@gmail.com**
+Questions about this policy or the game: **info.redbananagames@gmail.com**
